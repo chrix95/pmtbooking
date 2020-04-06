@@ -1,0 +1,14 @@
+<script src="{{ mix('js/app.js') }}"></script>
+<script src="{{ asset('ui/js/jquery.min.js') }}"></script>
+<script src="{{ asset('ui/themes/jquery-ui.min.js') }}"></script>
+<script src="{{ asset('ui/themes/jquery-ui.css') }}"></script>
+<script src="{{ asset('ui/themes/jquery-ui-timepicker-addon.min.js') }}"></script>
+<script src="{{ asset('ui/themes/e808bf9397.js') }}"></script>
+<script src="{{ asset('ui/js/jquery.uniform.min.js') }}"></script>
+<script src="{{ asset('ui/js/jquery.slicknav.min.js') }}"></script>
+<script src="{{ asset('ui/js/wow.min.js') }}"></script>
+<script src="{{ asset('ui/js/jquery-ui-sliderAccess.js') }}"></script>
+<script src="{{ asset('ui/js/search.js') }}"></script>
+<script src="{{ asset('ui/js/scripts.js') }}"></script>
+<script src="https://js.paystack.co/v1/inline.js"></script>
+<script src="{{ asset('ui/js/custom.js') }}"></script>
